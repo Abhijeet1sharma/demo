@@ -1,5 +1,5 @@
 {
-      "students"  =[
+      "students"  :[
             {  "id":  1,  "name":  "Abhijeet Sharma", "email":"Abhijeet Sharma", "phone":9982515471, "Address": "Chandpole", "Academics": "A+" },
       {  "id":  2,  "name":  "Abhijeet Sharma", "email":"Abhijeet Sharma", "phone":9982515471, "Address": "Chandpole", "Academics": "A+" }
      , {  "id":  3,  "name":  "Abhijeet Sharma", "email":"Abhijeet Sharma", "phone":9982515471, "Address": "Chandpole", "Academics": "A+" }
